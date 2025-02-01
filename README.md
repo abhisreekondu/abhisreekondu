@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhi Sree</h1>
 <h3 align="center">Aspiring software engineer with a solid foundation in web programming, C++, and Python</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack** and **ML**
 
 - 📫 How to reach me **konduabhisree@gmail.com**
 
